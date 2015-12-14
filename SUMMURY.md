@@ -8,7 +8,7 @@
 
 # Summary
 
-- [前锟剿伙拷锟斤拷锟斤拷](chapter1/00_intro.md)
+- [前端基本功](chapter1/00_intro.md)
   - [HTML+CSS](chapter1/01_photoshop.md)
     - [HTML进阶](chapter1/01_01_tool_panel_view.md)
     - [CSS进阶](chapter1/01_02_measurement_and_color.md)
@@ -19,13 +19,12 @@
     - [JavaScript基础教程](chapter1/02_01_sublime.md)
     - [JavaScript内置对象常用方法](chapter1/02_02_atom.md)
     - [常见DOM树操作大全](chapter1/02_03_atom.md)
-    - [ECMAScript锟斤拷DOM锟斤拷BOM](chapter1/02_04atom.md)
-    - [ECMAScript、DOM、BOM](chapter1/02_05_atom.md)
-    - [定时器和焦点图](chapter1/02_06_atom.md)
+    - [ECMAScript、DOM、BOM](chapter1/02_04_atom.md)
+    - [定时器和焦点图](chapter1/02_05_atom.md)
   - [JS基本特效](chapter1/03_JS.md)
     - [常见特效，例如：tab，导航，整页滚动](chapter1/03_01_JS_e.md)
     - [轮播图，用JS制作幻灯片](chapter1/03_02_html_sytax.md)
-    - [弹出层，手风琴菜单](chapter1/03_03_html_tags.md)
+    - [Event事件及兼容性封装](chapter1/03_03_js_event.md)
     - [瀑布流布局，滚动事件](chapter1/03_04_html_ascii_encoding.md)
     - [滚差视图](chapter1/03_05_cross_browser.md)
   - [JavaScript高级特性](chapter1/04_css_intro.md)
