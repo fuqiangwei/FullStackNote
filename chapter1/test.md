@@ -420,3 +420,5 @@ $.trim(str);
   $(document).click( $.proxy(show,window,3,4)  );
 
 ```
+ inArray() : 类似于 indexOf
+不仅可以给JQ用，也可以给原生JS用 : 叫做工具方法
